@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fitness_tracker/screens/addnewform.dart';
-import 'package:flutter_fitness_tracker/screens/cards.dart';
-import 'package:flutter_fitness_tracker/screens/sidebar.dart';
+import 'package:flutter_fitness_tracker/view/screens/addnewform.dart';
+import 'package:flutter_fitness_tracker/view/screens/cards.dart';
+import 'package:flutter_fitness_tracker/view/screens/sidebar.dart';
 
 class DashboardScreen extends StatelessWidget {
   const DashboardScreen({super.key});

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fitness_tracker/screens/upcominglist.dart';
+import 'package:flutter_fitness_tracker/view/screens/upcominglist.dart';
 
 class Cardssheet extends StatelessWidget {
   const Cardssheet({super.key});
